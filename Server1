@@ -1,0 +1,269 @@
+#EXTM3U x-tvg-url="https://3o77.short.gy/jioepg.xml.gz"
+#EXTINF:-1 tvg-id="158" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+http://novst4.1234.uno:6061/starplusindia/index.m3u8
+#EXTINF:-1 tvg-id="931" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
+http://dpny5.1234.uno:6061/starbharatindia/index.m3u8
+#EXTINF:-1 tvg-id="291" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+http://dpny1.1234.uno:6061/sonyindia/video.m3u8
+#EXTINF:-1 tvg-id="144" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://dpny1.1234.uno:6061/colorsindia/index.m3u8
+#EXTINF:-1 tvg-id="167" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+http://dpny2.1234.uno:6061/zeetvindia/index.m3u8
+#EXTINF:-1 tvg-id="472" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
+http://dpny5.1234.uno:6061/andtvindia/index.m3u8
+#EXTINF:-1 tvg-id="471" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+http://dpny1.1234.uno:6061/sabindia/index.m3u8
+#EXTINF:-1 tvg-id="1157" group-title="SERVER 1" tvg-language="English" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Cafe-HD.png",ZEE Cafe HD
+http://dpny3.1234.uno:6061/zeecafe/video.m3u8
+#EXTINF:-1 tvg-id="482" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png",Star World HD
+http://dpny3.1234.uno:6061/starworld/video.m3u8
+#EXTINF:-1 tvg-id="" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/UTV_HD_India.png/800px-UTV_HD_India.png",UTV HD
+http://dpny3.1234.uno:6061/utvhd/index.m3u8
+#EXTINF:-1 tvg-id="185" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&Pictures HD
+http://dpny1.1234.uno:6061/andpictures/index.m3u8
+#EXTINF:-1 tvg-id="1477" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
+http://dpny1.1234.uno:6061/rishtecineplex/index.m3u8
+#EXTINF:-1 tvg-id="476" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+http://dpny1.1234.uno:6061/setmaxxindia/index.m3u8
+#EXTINF:-1 tvg-id="156" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg",&Xpore HD
+http://dpny1.1234.uno:6061/andxplor/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg",Star Gold Select HD
+http://dpny2.1234.uno:6061/stargoldselect/index.m3u8
+#EXTINF:-1 tvg-id="165" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+http://dpny1.1234.uno:6061/zeeincinema/index.m3u8
+#EXTINF:-1 tvg-id="1158" group-title="SERVER 1" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
+http://dpny3.1234.uno:6061/colorinfinityhd/index.m3u8
+#EXTINF:-1 tvg-id="762" group-title="SERVER 1" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
+http://dpny3.1234.uno:6061/sonypix/index.m3u8
+#EXTINF:-1 tvg-id="762" group-title="SERVER 1" tvg-language="English" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/flix-HD-Logo.jpg",&Flix HD
+http://dpny3.1234.uno:6061/andflixhd/index.m3u8
+#EXTINF:-1 tvg-id="762" group-title="SERVER 1" tvg-language="English" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/prive-HD-Logo.jpg",&Prive HD
+http://dpny3.1234.uno:6061/andprive/index.m3u8
+#EXTINF:-1 tvg-id="762" group-title="SERVER 1" tvg-language="English" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Movies_Now_HD.jpg",Movies Now HD
+http://novst3.1234.uno:6061/moviesnow/index.m3u8
+#EXTINF:-1 tvg-id="362" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",StarSports 1 Hindi 1 HD
+http://dpny2.1234.uno:6061/starsportshindi/index.m3u8
+#EXTINF:-1 tvg-id="159" group-title="SERVER 1" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 1 HD
+http://dpny1.1234.uno:6061/starsports1/index.m3u8
+#EXTINF:-1 tvg-id="159" group-title="SERVER 1" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 2 HD
+http://dpny1.1234.uno:6061/starsports2/index.m3u8
+#EXTINF:-1 tvg-id="460" group-title="SERVER 1" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select 1 HD
+http://dpny1.1234.uno:6061/starsports1select/index.m3u8
+#EXTINF:-1 tvg-id="461" group-title="SERVER 1" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select 2 HD
+http://dpny3.1234.uno:6061/starsportselect2hd/video.m3u8
+#EXTINF:-1 tvg-id="162" group-title="SERVER 1" tvg-language="English" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png",Sony Sports 1 HD
+http://dpny2.1234.uno:6061/ten1hd/index.m3u8
+#EXTINF:-1 tvg-id="891" group-title="SERVER 1" tvg-language="English" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png",Sony Sports 2 HD
+http://dpny2.1234.uno:6061/Ten2HD/index.m3u8
+#EXTINF:-1 tvg-id="892" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png",Sony Sports 3 HD
+http://dpny1.1234.uno:6061/sonyten3/index.m3u8
+#EXTINF:-1 tvg-id="155" group-title="SERVER 1" tvg-language="English" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png",A Sports HD
+http://dpny5.1234.uno:6061/asports/index.m3u8
+#EXTINF:-1 tvg-id="875" group-title="SERVER 1" tvg-language="English" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png",Eurosport HD
+http://novst3.1234.uno:6061/eurosports/index.m3u8
+#EXTINF:-1 tvg-id="438" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2019/06/Willow-696x392.png",Willow Cricket HD
+http://dpny3.1234.uno:6061/willowhd/index.m3u8
+#EXTINF:-1 tvg-id="1161" group-title="SERVER 1" tvg-language="English" tvg-logo="https://aimages.willow.tv/willowhd_h40px.png",Willow Extra HD
+http://dpny1.1234.uno:6061/willowxtra/index.m3u8
+#EXTINF:-1 tvg-id="1166" group-title="SERVER 1" tvg-language="English" tvg-logo="https://ia600809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png",Sky Sports HD
+http://dpny1.1234.uno:6061/skysportscrircket/index.m3u8
+#EXTINF:-1 tvg-id="1984" group-title="SERVER 1" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_3_-_Logo_2015.svg/512px-Sky_Sport_3_-_Logo_2015.svg.png",Sky Sports NZ HD
+http://dpny5.1234.uno:6061/skysports/index.m3u8
+#EXTINF:-1 tvg-id="204" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/STAR_Sports_3_India.jpg",Star Sports 3
+http://dpny2.1234.uno:6061/starsports3/index.m3u8
+#EXTINF:-1 tvg-id="1294" group-title="SERVER 1" tvg-language="English" tvg-logo="https://hamariweb.com/mobiles/images/appslogo/280.jpg",PTV Sports
+http://dpny1.1234.uno:6061/ptvsports/index.m3u8
+#EXTINF:-1 tvg-id="1425" group-title="SERVER 1" tvg-language="English" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-vectoral-png-17.png",WWE HD
+http://dpny1.1234.uno:6061/wwe/index.m3u8
+#EXTINF:-1 tvg-id="177" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News India
+http://dpny3.1234.uno:6061/abpnews/index.m3u8
+#EXTINF:-1 tvg-id="173" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak HD
+http://dpny1.1234.uno:6061/aajtaak/index.m3u8
+#EXTINF:-1 tvg-id="504" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
+http://dpny5.1234.uno:6061/zeenews/index.m3u8
+#EXTINF:-1 tvg-id="258" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+#EXTINF:-1 tvg-id="858" group-title="SERVER 1" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic Bharat
+http://dpny2.1234.uno:6061/republicbharat/index.m3u8
+#EXTINF:-1 tvg-id="231" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
+http://dpny5.1234.uno:6061/news18india/index.m3u8
+#EXTINF:-1 tvg-id="235" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",India TV
+http://dpny5.1234.uno:6061/indiatv/index.m3u8
+#EXTINF:-1 tvg-id="501" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="499" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",News Nation
+http://dpny2.1234.uno:6061/newsnation/index.m3u8
+#EXTINF:-1 tvg-id="498" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News.png",India News
+http://dpny5.1234.uno:6061/indianews/index.m3u8
+#EXTINF:-1 tvg-id="1906" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png",Times Now Navbharat HD
+http://dpny3.1234.uno:6061/timesnownavbharat/index.m3u8
+#EXTINF:-1 tvg-id="203" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News HD
+http://dpny1.1234.uno:6061/ddnews/index.m3u8
+#EXTINF:-1 tvg-id="652" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png",Zee Hindustan
+http://dpny2.1234.uno:6061/zeehindustan/index.m3u8
+#EXTINF:-1 tvg-id="518" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png",Sudarshan News
+https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
+#EXTINF:-1 tvg-id="936" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SERVER 1_1_India.png",1 India
+http://live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="1251" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png",TV9 Bharatvarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="530" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/NDTV_Good_Times.jpg",Ndtv Good Times
+http://dpny1.1234.uno:6061/ndtvgoodtimes/video.m3u8
+#EXTINF:-1 tvg-id="512" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png",India News UP
+http://dpny5.1234.uno:6061/indianewsup/index.m3u8
+#EXTINF:-1 tvg-id="792" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png",News State UK UP
+http://novst3.1234.uno:6061/newsstate/index.m3u8
+#EXTINF:-1 tvg-id="572" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/India-Today-News-Logo-SmartAds.jpg",India Today
+http://dpny1.1234.uno:6061/indiatoday/video.m3u8
+#EXTINF:-1 tvg-id="508" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/NDTV_24x7.jpg",NDTV Eng
+http://dpny1.1234.uno:6061/ndtv/index.m3u8
+#EXTINF:-1 tvg-id="918" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Times_Now.jpg",Times Now HD
+http://dpny3.1234.uno:6061/TimesNowHD/index.m3u8
+#EXTINF:-1 tvg-id="657" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
+http://dpny3.1234.uno:6061/zeebusiness/index.m3u8
+#EXTINF:-1 tvg-id="259" group-title="SERVER 1" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
+#EXTINF:-1 tvg-id="190" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC Awaaz
+http://dpny5.1234.uno:6061/CNBCAWAAZ/index.m3u8
+#EXTINF:-1 tvg-id="1396" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",Sony SD
+http://dpny3.1234.uno:6061/sonytv/index.m3u8
+#EXTINF:-1 tvg-id="1368" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Aapka_Colors_2008.png",Aapka Colors
+http://dpny3.1234.uno:6061/colors/index.m3u8
+#EXTINF:-1 tvg-id="154" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Utsav_Plus_Logo.jpg/220px-Utsav_Plus_Logo.jpg",Utsav Plus
+http://dpny5.1234.uno:6061/starplusuk/index.m3u8
+#EXTINF:-1 tvg-id="367" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
+http://dpny5.1234.uno:6061/starutsav/index.m3u8
+#EXTINF:-1 tvg-id="279" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
+http://dpny5.1234.uno:6061/rishtey/index.m3u8
+#EXTINF:-1 tvg-id="473" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
+http://dpny5.1234.uno:6061/zeeanmol/index.m3u8
+#EXTINF:-1 tvg-id="474" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
+http://dpny1.1234.uno:6061/sonypal/index.m3u8
+#EXTINF:-1 tvg-id="701" group-title="SERVER 1" tvg-language="Bhojpuri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",Dangal
+http://dpny3.1234.uno:6061/dangal/index.m3u8
+#EXTINF:-1 tvg-id="202" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
+http://dpny3.1234.uno:6061/ddnational/index.m3u8
+#EXTINF:-1 tvg-id="532" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Dabangg
+http://dpny1.1234.uno:6061/dabangg/index.m3u8
+#EXTINF:-1 tvg-id="1961" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sahara_One.jpg",Sahara One
+http://dpny5.1234.uno:6061/saharaone/index.m3u8
+#EXTINF:-1 tvg-id="1396" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/The-Q-Logo.png",The Q
+http://dpny3.1234.uno:6061/qyoutv/index.m3u8
+#EXTINF:-1 tvg-id="1396" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/DD-Retro-Logo.jpg",DD Retro
+http://dpny2.1234.uno:6061/ddretro/index.m3u8
+#EXTINF:-1 tvg-id="482" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Epic.jpg",Epic
+http://dpny1.1234.uno:6061/epic/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24x7 New Movie 1
+http://dpny2.1234.uno:6061/movieseries5/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24x7 New Movies 2
+http://dpny2.1234.uno:6061/movieseries6/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24x7 New Movies 3
+http://dpny2.1234.uno:6061/movieseries7/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24x7 New Movies 4
+http://dpny2.1234.uno:6061/movieseries9/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24x7 New Movies 5
+http://dpny2.1234.uno:6061/movieseries10/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-language="Hindi" tvg-logo="https://static.libnet.info/images/events/acld/classic%20cinema.jpg",Classic Cinema 24x7
+http://dpny2.1234.uno:6061/classicscinema/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-language="Hindi" tvg-logo="https://cdn.ndtv.com/tech/images/gadgets/miniplex_fb.jpg",Miniplex HD
+http://dpny2.1234.uno:6061/miniplexhd/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Manoranjan-Grand.jpeg/220px-Manoranjan-Grand.jpeg",Manoranjan Grand
+http://dpny3.1234.uno:6061/manoranjangrand/index.m3u8
+#EXTINF:-1 tvg-id="289" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png",Sony Max SD
+http://dpny1.1234.uno:6061/setmax/index.m3u8
+#EXTINF:-1 tvg-id="483" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Dangal-2.jpg/200px-Dangal-2.jpg",Dangal 2
+http://dpny2.1234.uno:6061/enter10/index.m3u8
+#EXTINF:-1 tvg-id="484" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
+http://dpny1.1234.uno:6061/zeecinema/video.m3u8
+#EXTINF:-1 tvg-id="182" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
+http://dpny2.1234.uno:6061/b4umoviesindia/index.m3u8
+#EXTINF:-1 tvg-id="487" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Bollywood-Logo.jpg",Zee Bollywood
+http://dpny2.1234.uno:6061/zeebollywood/index.m3u8
+#EXTINF:-1 tvg-id="485" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Gold-2-Logo.jpg",Star Gold 2
+http://dpny3.1234.uno:6061/stargold2/index.m3u8
+#EXTINF:-1 tvg-id="488" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
+http://dpny3.1234.uno:6061/zeeaction/index.m3u8
+#EXTINF:-1 tvg-id="415" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
+http://dpny3.1234.uno:6061/zeeanmolcinema/index.m3u8
+#EXTINF:-1 tvg-id="809" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee_Classic_India.png",Zee Classic
+http://dpny2.1234.uno:6061/zeeclassic/index.m3u8
+#EXTINF:-1 tvg-id="1258" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/UTV_Action_India.png",UTV Action
+http://dpny3.1234.uno:6061/utvaction/index.m3u8
+#EXTINF:-1 tvg-id="1450" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://revealthat.com/wp-content/uploads/2022/09/goldmines.jpg",Goldmines
+http://dpny3.1234.uno:6061/dhinchak/index.m3u8
+#EXTINF:-1 tvg-id="1266" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://revealthat.com/wp-content/uploads/2022/09/goldmines.jpg",Goldmines 2
+http://dpny3.1234.uno:6061/dhinchak2/index.m3u8
+#EXTINF:-1 tvg-id="1295" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png",B4U Kadak
+http://dpny2.1234.uno:6061/b4ukadak/index.m3u8
+#EXTINF:-1 tvg-id="545" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://onetakemedia.in/images/portfolio/4/Kiddo_Movies.png",Kids Movies 24x7
+http://novst3.1234.uno:6061/kidsmovies/index.m3u8
+#EXTINF:-1 tvg-id="559" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Disney_Channel.jpg",Disney
+http://dpny3.1234.uno:6061/disneyindia/index.m3u8
+#EXTINF:-1 tvg-id="816" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+http://dpny3.1234.uno:6061/cartoonnetworkindia/index.m3u8
+#EXTINF:-1 tvg-id="815" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Hungama_India.png",Hungama
+http://dpny5.1234.uno:6061/hungamatv/index.m3u8
+#EXTINF:-1 tvg-id="872" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay Hindi
+http://dpny3.1234.uno:6061/sonyyay/index.m3u8
+#EXTINF:-1 tvg-id="547" group-title="SERVER 1" tvg-language="English" tvg-logo="https://i0.wp.com/nurseryrhymesleicester.co.uk/wp-content/uploads/2014/04/nursery-rhymes-logo.png",Baby Rhymes 1 24x7
+http://dpny2.1234.uno:6061/babyrhymes1/index.m3u8
+#EXTINF:-1 tvg-id="554" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://i0.wp.com/nurseryrhymesleicester.co.uk/wp-content/uploads/2014/04/nursery-rhymes-logo.png",Baby Rhymes 2 24x7
+http://dpny2.1234.uno:6061/babyrhymes2/index.m3u8
+#EXTINF:-1 tvg-id="1145" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
+http://dpny1.1234.uno:6061/mtvplushd/index.m3u8
+#EXTINF:-1 tvg-id="753" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
+http://dpny1.1234.uno:6061/mtvbeats/index.m3u8
+#EXTINF:-1 tvg-id="584" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
+http://dpny3.1234.uno:6061/masti/index.m3u8
+#EXTINF:-1 tvg-id="585" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing
+http://dpny3.1234.uno:6061/zing/index.m3u8
+#EXTINF:-1 tvg-id="587" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM
+http://dpny1.1234.uno:6061/9xm/index.m3u8
+#EXTINF:-1 tvg-id="591" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="",Pop Pataka HD
+http://dpny2.1234.uno:6061/poppataka/index.m3u8
+#EXTINF:-1 tvg-id="591" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-id="183" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music
+http://dpny3.1234.uno:6061/b4umusic/index.m3u8
+#EXTINF:-1 tvg-id="592" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="",Old Songs 24x7
+http://dpny2.1234.uno:6061/oldsongs/index.m3u8
+#EXTINF:-1 tvg-id="248" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="",Dil Se
+http://dpny2.1234.uno:6061/dilse/index.m3u8
+#EXTINF:-1 tvg-id="440" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",9X Jalwa
+http://dpny2.1234.uno:6061/9xjalwa/index.m3u8
+#EXTINF:-1 tvg-id="548" group-title="SERVER 1" tvg-language="English" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Bindass_India.png",Bindaas
+http://dpny2.1234.uno:6061/bindas/index.m3u8
+#EXTINF:-1 tvg-id="1226" group-title="SERVER 1" tvg-language="English" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/VH1-HD-Logo.png",VH1 HD
+http://novst3.1234.uno:6061/vh1hd/index.m3u8
+#EXTINF:-1 tvg-id="463" group-title="SERVER 1" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
+http://dpny3.1234.uno:6061/discoveryworldhindi/index.m3u8
+#EXTINF:-1 tvg-id="821" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
+http://novst3.1234.uno:6061/bbcearth/index.m3u8
+#EXTINF:-1 tvg-id="146" group-title="SERVER 1" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",ID
+http://dpny5.1234.uno:6061/discoveryidhd/index.m3u8
+#EXTINF:-1 tvg-id="566" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
+http://dpny3.1234.uno:6061/animalplanethindi/index.m3u8
+#EXTINF:-1 tvg-id="575" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/National_Geographic_HD.jpg",National Geographic HD
+http://dpny3.1234.uno:6061/natgeohindi/index.m3u8
+#EXTINF:-1 tvg-id="578" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",History TV18 HD Hindi
+http://dpny3.1234.uno:6061/historytv18hindi/index.m3u8
+#EXTINF:-1 tvg-id="164" group-title="SERVER 1" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travelxp HD
+http://dpny1.1234.uno:6061/travelxpindia/index.m3u8
+#EXTINF:-1 tvg-id="571" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Food_Food.jpg",Food Food
+http://dpny1.1234.uno:6061/foodfood/video.m3u8
+#EXTINF:-1 tvg-id="571" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Zest-HD-Logo.png",Zee Zest HD
+http://dpny3.1234.uno:6061/zeezesthd/index.m3u8
+#EXTINF:-1 tvg-id="571" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Fox_Life_HD_India.png",Fox Life HD
+http://novst3.1234.uno:6061/foxlifehd/index.m3u8
+#EXTINF:-1 tvg-id="175" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",Aastha
+http://dpny3.1234.uno:6061/aasthaindia/index.m3u8
+#EXTINF:-1 tvg-id="594" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",Aastha Bhajan
+http://dpny3.1234.uno:6061/aasthabhajan/index.m3u8
+#EXTINF:-1 tvg-id="288" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png",Sanskar
+http://dpny3.1234.uno:6061/sanskar/video.m3u8
+#EXTINF:-1 tvg-id="801" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png",Divya TV
+http://dpny2.1234.uno:6061/Divya/index.m3u8
+#EXTINF:-1 tvg-id="593" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png",Sadhna
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="597" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png",Satsang TV
+http://dpny3.1234.uno:6061/satsangtv/index.m3u8
